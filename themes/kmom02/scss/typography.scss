@@ -1,0 +1,31 @@
+@import 'variables';
+
+body {
+
+    line-height: 1.5rem;
+    color: $font-color;
+}
+
+p, td, th, li, dd {
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.6em;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    max-width: $img-width-max;
+}
+
+* {
+    color: $font-color;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}

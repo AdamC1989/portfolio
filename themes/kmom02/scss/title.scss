@@ -1,0 +1,13 @@
+@import 'variables';
+
+.title, .logo {
+    padding: 3em 3em 3em 0;
+}
+
+.title * {
+    color: $font-color;
+}
+
+.title p {
+    font-style: italic;
+}

@@ -1,0 +1,9 @@
+@import 'variables';
+
+.main {
+    flex: 1 0 auto;
+    background: $main-color;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1em;
+}

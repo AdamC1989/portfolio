@@ -1,0 +1,4 @@
+@import '../../shared/scss/base';
+$base-color: #c6538c; // light pink
+
+@import '../../shared/scss/base';
